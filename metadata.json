@@ -1,0 +1,6 @@
+{
+  "name": "The Blind Spot",
+  "description": "An AI cognitive mirror that uncovers assumptions, contradictions, missing perspectives, and unanswered questions before you make important decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
